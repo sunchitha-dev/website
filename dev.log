@@ -1,0 +1,19 @@
+▲ Next.js 16.2.10 (Turbopack)
+- Local:         http://localhost:3456
+- Network:       http://192.168.56.1:3456
+✓ Ready in 675ms
+
+○ Compiling / ...
+ GET / 200 in 3.6s (next.js: 3.3s, application-code: 324ms)
+ GET / 200 in 57ms (next.js: 5ms, application-code: 51ms)
+ GET / 200 in 95ms (next.js: 9ms, application-code: 86ms)
+Persisting failed: Unable to write SST file 00000050.sst
+
+Caused by:
+    The system cannot find the path specified. (os error 3)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Compaction failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Compaction failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Persisting failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)
+Compaction failed: Another write batch or compaction is already active (Only a single write operations is allowed at a time)

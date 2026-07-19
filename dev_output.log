@@ -1,0 +1,7 @@
+▲ Next.js 16.2.10 (Turbopack)
+- Local:         http://localhost:3456
+- Network:       http://192.168.56.1:3456
+✓ Ready in 831ms
+
+○ Compiling / ...
+ GET / 200 in 5.2s (next.js: 4.7s, application-code: 450ms)
